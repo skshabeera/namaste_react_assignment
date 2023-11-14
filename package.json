@@ -1,0 +1,30 @@
+{
+  "name": "namaste_react_assignment",
+  "version": "1.0.0",
+  "description": "\"namaste react assignment",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skshabeera/namaste_react_assignment.git"
+  },
+  "author": "shabeera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skshabeera/namaste_react_assignment/issues"
+  },
+  "homepage": "https://github.com/skshabeera/namaste_react_assignment#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "process": "^0.11.10"
+  },
+  "browserslists":[
+    "last 2 versions"
+  ]
+}
