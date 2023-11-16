@@ -1,3 +1,32 @@
-#container{
-    background-color: blueviolet;
-}
+
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color:blue; 
+  }
+  
+  .logo-container,
+  .search-container,
+  .user-container {
+    
+    text-align: center;
+  }
+  
+  .logo {
+    height: 150px; 
+    width: 150px/* Adjust the height as needed */
+  }
+  
+  .search-input {
+    padding: 8px;
+    width: 100%;
+    
+  }
+  
+  .user-icon {
+    height: 100px; /* Adjust the height as needed */
+  }
+  
